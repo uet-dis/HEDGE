@@ -1,0 +1,13 @@
+*.pyc
+venv/
+__pycache__/
+*.egg-info/
+.conda/
+.vscode/
+catboost_info/
+build/
+data/
+resources/
+
+
+reports/
